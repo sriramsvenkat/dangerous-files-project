@@ -1,0 +1,1 @@
+make-pdf-embedded.py -m "PDF with VBA" -a embedded-vba.doc Output-pdf-w-embedded-vba-doc.pdf
